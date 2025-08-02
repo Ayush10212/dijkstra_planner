@@ -1,0 +1,11 @@
+dijkstra_node:
+  ros__parameters:
+    grid: [0, 0, 1, 0,
+           1, 0, 1, 0,
+           0, 0, 0, 0,
+           0, 1, 1, 0]
+    rows: 4
+    cols: 4
+    start: [0, 0]
+    goal: [3, 3]
+    
