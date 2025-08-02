@@ -3,7 +3,7 @@
   <name>dijkstra_planner</name>
   <version>0.0.0</version>
   <description>ROS 2 Dijkstra path planning package</description>
-  <maintainer email="ayush@example.com">Ayush</maintainer>
+  <maintainer email="ayushbhardwaj12abh@gmail.com">Ayush</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_python</buildtool_depend>
