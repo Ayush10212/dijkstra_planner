@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>dijkstra_planner</name>
+  <version>0.0.0</version>
+  <description>Dijkstra path planning package</description>
+  <maintainer email="your@email.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_python</buildtool_depend>
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>nav_msgs</exec_depend>
+  <exec_depend>geometry_msgs</exec_depend>
+</package>
