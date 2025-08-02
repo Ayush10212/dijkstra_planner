@@ -2,12 +2,13 @@
 <package format="3">
   <name>dijkstra_planner</name>
   <version>0.0.0</version>
-  <description>Dijkstra path planning package</description>
-  <maintainer email="your@email.com">Your Name</maintainer>
+  <description>ROS 2 Dijkstra path planning package</description>
+  <maintainer email="ayush@example.com">Ayush</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_python</buildtool_depend>
   <exec_depend>rclpy</exec_depend>
   <exec_depend>nav_msgs</exec_depend>
   <exec_depend>geometry_msgs</exec_depend>
+  <exec_depend>python3-numpy</exec_depend>
 </package>
